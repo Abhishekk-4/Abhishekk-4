@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🎓 B.Tech Computer Science Engineering student at MIET Meerut<br>💻 Exploring frontend development with JavaScript and React<br>🛠️ Hands-on experience through personal projects and open-source contributions<br>🌱 Continuously learning and improving my development and deployment skills<br>⚡ Fun fact: I like building things step by step and making them better each time ☕
+🎓 B.Tech Computer Science Engineering student at MIET Meerut<br>💻 Exploring frontend development with JavaScript and React<br>🛠️ Hands-on experience through personal projects and open-source contributions<br>🌱 Continuously learning and improving my development and deployment skills<br> 📚 Currently strengthening my foundation in Data Structures & Algorithms, System Design basics, and quantitative aptitude for placements<br>⚡ Fun fact: I like building things step by step and making them better each time ☕
 
 
 ## 🌐 Socials:
